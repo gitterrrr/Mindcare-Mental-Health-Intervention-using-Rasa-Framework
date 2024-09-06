@@ -4,6 +4,15 @@
 
 This repository contains the implementation of a Mood Classification and Recommendation System using a dataset and chatbot. The system provides mental health support and guidance through pre-programmed responses, emotional information extraction, activity recommendations, and music recommendations.
 
+## About the Team
+
+Our machine learning project was developed by a dedicated team of four members. Below is a list of the team members and their respective contributions:
+
+- **Mr.Roopesh**: Worked on the frontend of the project, responsible for designing and implementing the user interface and interaction with the backend.
+- **Mr.Prithviraj**: Handled the dataset collection and preprocessing, ensuring that the data used in the project was clean, organized, and properly labeled.
+- **Mr.Shreesha**: Focused on backend development, building the core logic and functionality that drives the machine learning models and integrates with the frontend.
+- **Ms.Vaishnavi**: Developed the UI, working closely with Member 1 to design a user-friendly interface and improve overall user experience.
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Rasa](https://img.shields.io/badge/rasa-%235A9DD8.svg?style=for-the-badge&logo=rasa&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
