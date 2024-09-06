@@ -11,7 +11,7 @@ Our machine learning project was developed by a dedicated team of four members. 
 - **Mr.Roopesh**: Worked on the frontend of the project, responsible for designing and implementing the user interface and interaction with the backend.
 - **Mr.Prithviraj**: Handled the dataset collection and preprocessing, ensuring that the data used in the project was clean, organized, and properly labeled.
 - **Mr.Shreesha**: Focused on backend development, building the core logic and functionality that drives the machine learning models and integrates with the frontend.
-- **Ms.Vaishnavi**: Developed the UI, working closely with Member 1 to design a user-friendly interface and improve overall user experience.
+- **Ms.Vaishnavi**: Developed the UI, working closely with Mr.Roopesh to design a user-friendly interface and improve overall user experience.
 
 ## Tech Stack
 
